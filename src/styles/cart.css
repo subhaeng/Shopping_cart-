@@ -1,0 +1,13 @@
+.cart_box{
+    width: 250px;
+    padding: 20px;
+}
+.cart_box button{
+    padding: 5px 10px;
+    border: none;
+    font-weight: bold;
+    color: #fff;
+    background-color: rgb(240,186,87);
+    border-radius: 5px;
+    cursor: pointer;
+}
