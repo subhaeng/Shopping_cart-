@@ -1,3 +1,11 @@
+
+🛒 Shopping Cart - MyDxO Shop
+
+<img width="1890" height="866" alt="Screenshot 2025-09-25 234237" src="https://github.com/user-attachments/assets/b41726b7-6d86-49c8-a48f-4a4e5b3b214c" />
+
+
+<img width="1919" height="905" alt="Screenshot 2025-09-25 234449" src="https://github.com/user-attachments/assets/da49b4d8-30a0-4e41-b957-fb72b4ef249c" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -62,27 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-
-🛒 Shopping Cart - MyDxO Shop
-Introduction
-
-The Shopping Cart Project (MyDxO Shop) is a simple yet functional e-commerce web application that allows users to browse products, view details, and add items to their shopping cart. It provides an intuitive and user-friendly interface for online shopping while demonstrating key concepts of modern web development such as state management, dynamic rendering, and interactive UI design.
-
-This project was built with the goal of understanding how an online store works at its core—covering features like:
-
-Displaying a product catalog with images, titles, descriptions, and prices
-
-Adding and removing products from the shopping cart
-
-Keeping track of total items in the cart
-
-A clean and responsive design for better user experience
-
-The project can be extended into a full-fledged e-commerce platform with features like checkout, authentication, payment integration, and order management.
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
 
 
 
